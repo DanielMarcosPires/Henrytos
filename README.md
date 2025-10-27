@@ -1,17 +1,12 @@
-# 💙 Olá, eu sou Henry Franz
+# 🐱‍👤 Olá, eu sou Daniel Marcos
 <p align="left">
-  Desenvolvedor em formação, apaixonado por aprender e compartilhar conhecimento. <br>
- Tenho foco em ser desenvolvedor back end <strong>Java</strong> com <strong>Spring boot</strong>, com o objetivo de transformar cada aprendizado em uma grande passo na minha vida prossional.
+  Estudande de Análise e desenvolvimento de Sistemas. Sonho em me tornar um Desenvolvedor Sênior.
 </p>
 
 ## Sobre mim
 
-- 🖥️ Técnico em Desenvolvimento de Sistemas pela [ETEC Parque da juventude](https://etecparquedajuventude.cps.sp.gov.br/)
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas Na [São Paulo Tech School](https://sptech.school/)
-- 📚 Estudando [Java, Spring Boot](https://github.com/Henrytos/java-studies) para aprofundamento em back end
-- 🧑‍💻 Estagiário em Desenvolvimento Back end da [Stefanini Brasil](https://www.linkedin.com/company/stefanini-brasil/)
-- ❤️ Tenho um [linkedin](https://www.linkedin.com/in/henry-franz/) e sempre estou postando passos de minha trajetória na programação
-
+- Estudando pela plataforma Uninove [Análise e Desenvolvimento de Sistemas] - Em formação
+- Trabalhando na Empresa G&P, buscando aprender a lidar com pessoas.
 <br/>
 
 
@@ -32,8 +27,8 @@
 ## ⭐ GitHub
 
 <a href="https://github.com/Henrytos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrytos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrytos&layout=compact&langs_count=6&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielMarcosPires&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMarcosPires&layout=compact&langs_count=6&theme=radical"/>
 </a>
 
 
